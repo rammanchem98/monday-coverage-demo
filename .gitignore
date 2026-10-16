@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.pytest_cache/
+.venv/
+.claude/settings.local.json
+output/coverage_*.md

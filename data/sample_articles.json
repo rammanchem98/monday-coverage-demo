@@ -1,0 +1,103 @@
+{
+  "client": "SkyJet (fictional airline, sample data)",
+  "articles": [
+    {
+      "id": 1,
+      "source": "Daily Ledger",
+      "title": "SkyJet unveils new Lisbon route with daily flights from Heathrow",
+      "text": "SkyJet announced a new daily service from Heathrow to Lisbon starting in March. Chief executive Maria Cole said bookings had exceeded expectations in the first week. Analysts called the route a smart move into a growing market.",
+      "expected_sentiment": "positive"
+    },
+    {
+      "id": 2,
+      "source": "Travel Weekly Online",
+      "title": "SkyJet adds Lisbon route to growing European network",
+      "text": "SkyJet will fly to Lisbon daily from March, expanding its European network. The airline said early demand was strong and welcomed the launch as a milestone.",
+      "expected_sentiment": "positive"
+    },
+    {
+      "id": 3,
+      "source": "Metro Business Wire",
+      "title": "SkyJet adds daily Lisbon route to growing European network",
+      "text": "SkyJet will fly to Lisbon daily from March, expanding its European network. The airline said early demand was strong and welcomed the launch as a milestone.",
+      "expected_sentiment": "positive"
+    },
+    {
+      "id": 4,
+      "source": "The Herald",
+      "title": "Strike by SkyJet ground crew delays hundreds of flights",
+      "text": "Hundreds of passengers were stranded as SkyJet ground crew began a three-day strike. The airline apologised and cancelled 40 flights, with delays expected to continue.",
+      "expected_sentiment": "negative"
+    },
+    {
+      "id": 5,
+      "source": "City Courier",
+      "title": "Passengers furious as SkyJet strike leaves families stuck at airports",
+      "text": "Families spent the night in terminals as the SkyJet strike entered a second day. Passengers criticised the airline for poor communication and long queues.",
+      "expected_sentiment": "negative"
+    },
+    {
+      "id": 6,
+      "source": "Market Pulse",
+      "title": "SkyJet strike to cost airline millions, analysts warn",
+      "text": "Analysts estimate the strike will cost SkyJet millions in cancellations and compensation. Shares fell after talks with the union broke down.",
+      "expected_sentiment": "negative"
+    },
+    {
+      "id": 7,
+      "source": "National Post",
+      "title": "Union and SkyJet fail to reach deal as strike continues",
+      "text": "Talks between the union and SkyJet ended without agreement. Both sides said they remained far apart on pay, and further disruption is likely.",
+      "expected_sentiment": "negative"
+    },
+    {
+      "id": 8,
+      "source": "Consumer Guide",
+      "title": "SkyJet strike: what are your rights if your flight is cancelled?",
+      "text": "The strike has led to cancelled flights, and passengers may be entitled to refunds or rebooking. The article explains how to claim and what to expect from the airline.",
+      "expected_sentiment": "neutral"
+    },
+    {
+      "id": 9,
+      "source": "Deal Hunter",
+      "title": "SkyJet launches autumn fare sale with seats from 29 pounds",
+      "text": "SkyJet has launched a sale on selected European routes, with fares starting at 29 pounds one way. The offer runs for ten days and applies to travel before December.",
+      "expected_sentiment": "neutral"
+    },
+    {
+      "id": 10,
+      "source": "Money Matters",
+      "title": "Is the SkyJet autumn sale actually good value?",
+      "text": "The SkyJet sale offers low headline fares, but extra charges for bags and seat selection can raise the price. Shoppers should compare the total cost before booking.",
+      "expected_sentiment": "neutral"
+    },
+    {
+      "id": 11,
+      "source": "Aviation Today",
+      "title": "SkyJet named best short-haul airline at industry awards",
+      "text": "SkyJet won best short-haul airline at this year's industry awards, praised for punctuality and customer service across its network.",
+      "expected_sentiment": "positive"
+    },
+    {
+      "id": 12,
+      "source": "Business Brief",
+      "title": "SkyJet appoints new head of customer experience",
+      "text": "SkyJet has appointed Daniel Reed as head of customer experience, effective next month. He joins from a rival carrier.",
+      "expected_sentiment": "neutral"
+    },
+    {
+      "id": 13,
+      "source": "Tech in Travel",
+      "title": "SkyJet to trial biometric boarding at Manchester",
+      "text": "SkyJet will trial facial recognition boarding at Manchester airport next month. The airline says the trial is voluntary and aims to speed up boarding.",
+      "expected_sentiment": "neutral"
+    },
+    {
+      "id": 14,
+      "source": "Weekend Review",
+      "title": "Lisbon route boosts SkyJet but strike overshadows week",
+      "text": "SkyJet's new Lisbon route was well received this week, but the ground crew strike dominated the news and raised questions about the airline's reputation.",
+      "expected_sentiment": "negative"
+    }
+  ]
+}
